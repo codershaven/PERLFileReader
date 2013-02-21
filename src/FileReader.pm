@@ -1,4 +1,18 @@
 #!/usr/bin/perl
+
+################################################################################
+#
+# Copyright(c) 2013 - CodersHaven.net
+#
+# Name: 	FileReader.pm
+# Author:	CodersHaven.net
+# Email:	ch.lab@codershaven.net
+# Description:	This class can be used to easily read and process text files.
+#		You can define the line parser yourself and pass it to the
+#		process() method.
+#
+################################################################################
+
 use strict;
 
 package FileReader;
