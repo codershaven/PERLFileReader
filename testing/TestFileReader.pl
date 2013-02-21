@@ -1,4 +1,17 @@
 #!/usr/bin/perl
+
+################################################################################
+#
+# Copyright(c) 2013 - CodersHaven.net
+#
+# Name: 	TestFileReader.pl
+# Author:	CodersHaven.net
+# Email:	ch.lab@codershaven.net
+# Description:	This program provides an example of how to use the FileManager
+#		class.
+#
+################################################################################
+
 use strict;
 use lib "../src";
 
